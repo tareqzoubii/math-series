@@ -8,7 +8,7 @@
 
 - [Resource1](https://realpython.com/python-testing/)
 - [Resource2](https://www.youtube.com/watch?v=lnF_9hXD05k)
-- [PR Link](https://github.com/tareqzoubii/math-series/pull/1)
+- [PR Link](https://github.com/tareqzoubii/math-series/pull/2)
 
 ### Setup
 - python3 -m venv .venv
